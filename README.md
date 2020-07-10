@@ -1,6 +1,6 @@
 # Variational Paraphrasing with Memory Network
 
-The repository is the implementation of a paraphrasing model with memory network. The details is in the seciton of approach 2 in mem\_vae.pdf
+The repository is the implementation of a paraphrasing model with memory network. The details are in the seciton of approach 2 in mem\_vae.pdf
 
 It is based on the PyTorch implementation of [Controllable Paraphrase Generation with a Syntactic Exemplar](https://github.com/mingdachen/syntactic-template-generation)
 
